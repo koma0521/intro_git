@@ -3,3 +3,4 @@ Add
 Commit
 Second.txtの追記
 Status
+diff
